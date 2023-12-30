@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/Nike-Promo-React/static/css/main.b70e3450.css",
-    "main.js": "/github.io/Nike-Promo-React/static/js/main.56f6c1a3.js",
-    "index.html": "/github.io/Nike-Promo-React/index.html",
-    "main.b70e3450.css.map": "/github.io/Nike-Promo-React/static/css/main.b70e3450.css.map",
-    "main.56f6c1a3.js.map": "/github.io/Nike-Promo-React/static/js/main.56f6c1a3.js.map"
+    "main.css": "/Nike-Promo-React/static/css/main.84fd4172.css",
+    "main.js": "/Nike-Promo-React/static/js/main.f9c4b110.js",
+    "static/media/hero-image.png": "/Nike-Promo-React/static/media/hero-image.a6925ff450589eac50e5.png",
+    "index.html": "/Nike-Promo-React/index.html",
+    "main.84fd4172.css.map": "/Nike-Promo-React/static/css/main.84fd4172.css.map",
+    "main.f9c4b110.js.map": "/Nike-Promo-React/static/js/main.f9c4b110.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70e3450.css",
-    "static/js/main.56f6c1a3.js"
+    "static/css/main.84fd4172.css",
+    "static/js/main.f9c4b110.js"
   ]
 }
