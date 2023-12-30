@@ -1,5 +1,9 @@
 import React from "react";
 import './Main.css'
+import flipkart_img from './images/flipkart.png'
+import amzn_img from './images/amazon.png'
+import hero_img from './images/hero-image.png'
+
 const Main=()=>{
     return(
         <div className="main-box">
@@ -16,12 +20,12 @@ const Main=()=>{
                 </div>
                 <div className="sites">
                     <p>Also available on</p>
-                    <img src="/images/flipkart.png"></img>
-                    <img src="/images/amazon.png"></img>
+                    <img src={flipkart_img}></img>
+                    <img src={amzn_img}></img>
                 </div>
             </div>
             <div className="right">
-                <img src="/images/hero-image.png"></img>
+                <img src={hero_img}></img>
             </div>
         </div>
     )

@@ -23,3 +23,13 @@
 .sites img{
     padding: 10px;
 }
+@media only screen and (max-width: 730px) {
+  .main-box{
+    position: relative;
+  }
+  .right{
+    position: absolute;
+    z-index: -1;
+    opacity: 0.5;
+  }
+}
