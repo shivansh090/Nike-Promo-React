@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.my-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bolder;
+  cursor: pointer;
+  background-color: rgb(209, 67, 67);
+  color: #fff;
+  border-color: rgb(209, 67, 67);
+  border-radius: 0px;
+}
+.white{
+  background-color: rgb(255, 255, 255);
+  color: rgb(111, 109, 109);
+
+  border-color: black;
+}
+/* .my-button:hover {
+  background-color: #2980b9;
+} */

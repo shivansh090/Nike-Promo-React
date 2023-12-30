@@ -1,0 +1,12 @@
+.nav{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-item a{
+   padding: 0 12px;
+   text-decoration: none;
+   color: black;
+   font-weight: 500;
+}

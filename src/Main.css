@@ -1,0 +1,25 @@
+.heading{
+    padding: 10px 0 ;
+    font-size: 80px;
+    font-weight: 900;
+    line-height: 1;
+}
+ .my-button{
+   margin: 15px 30px 15px 0;
+}
+.desc{
+    padding: 20px 0;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(102, 102, 102);
+}
+.main-box{
+    display: flex;
+}
+.left{
+    padding: 10px 15%;
+}
+.sites img{
+    padding: 10px;
+}
